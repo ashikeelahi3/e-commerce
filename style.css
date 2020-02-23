@@ -39,29 +39,29 @@
     box-shadow: 10px 10px 30px rgb(206, 15, 31);
 }
 .cat-1{
-    background-image: linear-gradient(45deg, #2c2813, #FFA500);
+    background-image: linear-gradient(45deg, #a4da11, #FFA500);
     margin-bottom: 10px;
 }
 .cat-1:hover{
-    background-image: linear-gradient(45deg, #2c2813, #9e6701);
+    background-image: linear-gradient(45deg, #79921c, #9e6701);
     box-shadow: 10px 10px 30px rgb(77, 77, 77);
     cursor: pointer;
 }
 .cat-2{
-    background-image: linear-gradient(45deg, #411c3f, #DA70D6);
+    background-image: linear-gradient(45deg, #df1491, #DA70D6);
     margin-bottom: 10px;
 }
 .cat-2:hover{
-    background-image: linear-gradient(45deg, #411c3f, #b32eb3);
+    background-image: linear-gradient(45deg, #e21887, #b32eb3);
     box-shadow: 10px 10px 30px rgb(77, 77, 77);
     cursor: pointer;
 }
 .cat-3{
-    background-image: linear-gradient(45deg, #090927, rgb(25, 72, 88));
+    background-image: linear-gradient(45deg, #5f5fdb, rgb(35, 139, 173));
     margin-bottom: 10px;
 }
 .cat-3:hover{
-    background-image: linear-gradient(45deg, #0b0b1b, #08303d);
+    background-image: linear-gradient(45deg, #371d66, #081b3d);
     cursor: pointer;
     box-shadow: 10px 10px 30px rgb(77, 77, 77);
 }
