@@ -1,0 +1,100 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar{
+    border-radius: 30px;
+}
+
+.pink-bg{
+    background-color: #fceae8;
+    border-radius: 30px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.bye-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bye-now-button:hover{
+    background-image: linear-gradient(to bottom, rgb(241, 19, 211) 0%, rgb(255, 19, 19) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    
+   
+}
+
+.button-shadow:hover{
+    box-shadow: 10px 10px 30px rgb(206, 15, 31);
+}
+.cat-1{
+    background-image: linear-gradient(45deg, #2c2813, #FFA500);
+}
+.cat-1:hover{
+    background-image: linear-gradient(45deg, #2c2813, #9e6701);
+    box-shadow: 10px 10px 30px rgb(77, 77, 77);
+    cursor: pointer;
+}
+.cat-2{
+    background-image: linear-gradient(45deg, #411c3f, #DA70D6);
+}
+.cat-2:hover{
+    background-image: linear-gradient(45deg, #411c3f, #b32eb3);
+    box-shadow: 10px 10px 30px rgb(77, 77, 77);
+    cursor: pointer;
+}
+.cat-3{
+    background-image: linear-gradient(45deg, #090927, rgb(25, 72, 88));
+}
+.cat-3:hover{
+    background-image: linear-gradient(45deg, #0b0b1b, #08303d);
+    cursor: pointer;
+    box-shadow: 10px 10px 30px rgb(77, 77, 77);
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none ;
+}
+
+#contact-us{
+    height: 500px;
+}
+#contact-us h6{
+    color: gray;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+}
